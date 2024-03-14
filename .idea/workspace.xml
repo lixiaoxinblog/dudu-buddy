@@ -39,21 +39,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/code/java/dudu-backend/src/main/java/com/xiaoxin/dudu",
+    "last_opened_file_path": "E:/code/java/dudu-backend/src/main/resources/mapper",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xiaoxin.dudu.service.impl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\java\dudu-backend\src\main\resources\mapper" />
       <recent name="E:\code\java\dudu-backend\src\main\java\com\xiaoxin\dudu" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaoxin.dudu.service" />
       <recent name="com.xiaoxin.dudu.mapper" />
+      <recent name="com.xiaoxin.dudu.model.domain" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710400904124</updated>
-      <workItem from="1710400905229" duration="1245000" />
+      <workItem from="1710400905229" duration="2500000" />
     </task>
     <servers />
   </component>
